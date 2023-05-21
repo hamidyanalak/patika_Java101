@@ -15,7 +15,7 @@ import java.util.Scanner;
 
 public class AvgOfGrades {
     public static void main(String[] args) {
-        Scanner notes = new Scanner(System.in);
+        Scanner grades = new Scanner(System.in);
 
         // değişkenlerin tanımlanması/defining variables
         int mat, phy, che, turk, his, mus;
@@ -24,22 +24,22 @@ public class AvgOfGrades {
 
         //kullanıcıdan notların alınması/taking notes from the user
         System.out.print("Matematik notu:");
-        mat = notes.nextInt();
+        mat = grades.nextInt();
 
         System.out.print("Fizik notu:");
-        phy = notes.nextInt();
+        phy = grades.nextInt();
 
         System.out.print("Kimya notu:");
-        che = notes.nextInt();
+        che = grades.nextInt();
 
         System.out.print("Türkçe notu:");
-        turk = notes.nextInt();
+        turk = grades.nextInt();
 
         System.out.print("Tarih notu:");
-        his = notes.nextInt();
+        his = grades.nextInt();
 
         System.out.print("Müzik notu:");
-        mus = notes.nextInt();
+        mus = grades.nextInt();
 
         //ortalamanın hesaplanması ve yazdırılması/calculating and printing the average
         double avg = (mat + phy + che + turk + his + mus)/6;
