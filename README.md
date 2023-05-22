@@ -13,3 +13,4 @@
 * [Üçgende Hipotenüs ve Alan Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-hipotenus-bulma) --> [FindHypoTriangle.java](/src/FindHypoTriangle.java)
 
 * [Taksimetre Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-taksimetre) --> [Taximeter.java](/src/Taximeter.java)
+* [Dairenin Alanını ve Çevresini Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-daire-alan-cevre) --> [CalcValOfCirc](/src/CalcValOfCirc.java)
