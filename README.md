@@ -14,3 +14,4 @@
 
 * [Taksimetre Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-taksimetre) --> [Taximeter.java](/src/Taximeter.java)
 * [Dairenin Alanını ve Çevresini Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-daire-alan-cevre) --> [CalcValOfCirc](/src/CalcValOfCirc.java)
+* [Vücut Kitle İndeksi Hesaplama](https://academy.patika.dev/courses/java101/odev-vucut-kitle-hesaplama) --> [BodyMassIndex.java](/src/BodyMassIndex.java)
