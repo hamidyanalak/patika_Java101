@@ -5,7 +5,10 @@
 
 ## Dizin / Index
 
-[Not Ortalaması Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-not-ortalamasi) -->
+* [Not Ortalaması Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-not-ortalamasi) -->
 [src/AvgOfGrades.java](/src/AvgOfGrades.java)
 
-[Vergi Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-kdv-hesaplama) --> [src/CalcOfTax.java](/src/CalcOfTax.java)
+* [Vergi Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-kdv-hesaplama) --> [src/CalcOfTax.java](/src/CalcOfTax.java)
+
+* [Üçgende Hipotenüs ve Alan Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-hipotenus-bulma) --> [src/FindHypoTriangle.java](/src/FindHypoTriangle.java)
+
