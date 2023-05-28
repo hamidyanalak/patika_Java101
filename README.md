@@ -19,3 +19,4 @@
 * [Dört İşlem Hesap Makinesi Programı](https://academy.patika.dev/courses/java101/pratik-hesap-mak-1) --> [Calculator.java](/src/Calculator.java)
 * [Kullanıcı Girişi Programı](https://academy.patika.dev/tr/courses/java101/pratik-login-1) --> [UserLogin.java](/src/UserLogin.java)
 * [Sınıfı Geçme Durumu Programı](https://academy.patika.dev/tr/courses/java101/pratik-sinif-gecme) --> [ClassPassStat.java](/src/ClassPassStat.java)
+* [Hava Sıcaklığına Göre Etkinlik Öneren Program](https://academy.patika.dev/tr/courses/java101/pratik-etkinlik-onerme) --> [SuggestEvents.java](/src/SuggestEvents.java)
