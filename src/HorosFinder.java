@@ -21,65 +21,70 @@ public class HorosFinder {
 
         //değişkenlerin tanımlanması/defining variables
         int month, day;
+        String horos = "";
+        boolean isError = false;
 
         //kullanıcıdan verilerin alınması/taking datas from the user
-        System.out.print("Lütfen kaçıncı ayda doğduğunuzu giriniz :  \n");
+        System.out.print("Lütfen kaçıncı ayda doğduğunuzu giriniz : ");
         month = input.nextInt();
-        System.out.print("Lütfen ayın kaçıncı günü doğduğunuzu giriniz :  \n");
+        System.out.print("Lütfen ayın kaçıncı günü doğduğunuzu giriniz : ");
         day = input.nextInt();
-        System.out.println("Doğum tarihiniz : " + day + " " + month);
-        System.out.print("Burcunuz : ");
 
-
-        //bilgilerin karşılaştırılması ve ekrana yazdırılması/comparing and printing values
+        //bilgilerin karşılaştırılması/comparing values
         if (month == 1) {
-            if (day < 22) System.out.println("Oğlak");
-            else System.out.println("Kova");
+            if(day >=1 && day <=31) horos = day < 22 ? "Oğlak" : "Kova";
+            else isError = true;
         }
         else if (month == 2) {
-            if(day < 20) System.out.println("Kova");
-            else System.out.println("Balık");
+            if(day >=1 && day <=29) horos = day < 20 ? "Kova" : "Balık";
+            else isError = true;
         }
         else if (month == 3) {
-            if(day < 21) System.out.println("Balık");
-            else System.out.println("Koç");
+            if(day >=1 && day <=31) horos = day < 21 ? "Balık" : "Koç";
+            else isError = true;
         }
         else if (month == 4) {
-            if(day < 21) System.out.println("Koç");
-            else System.out.println("Boğa");
+            if(day >=1 && day <=30) horos = day < 21 ? "Koç" : "Boğa";
+            else isError = true;
         }
         else if (month == 5) {
-            if(day < 22) System.out.println("Boğa");
-            else System.out.println("İkizler");
+            if(day >=1 && day <=31) horos = day < 22 ? "Boğa" : "İkizler";
+            else isError = true;
         }
         else if (month == 6) {
-            if(day < 23) System.out.println("İkizler");
-            else System.out.println("Yengeç");
+            if(day >=1 && day <=30) horos = day < 23 ? "İkizler" : "Yengeç";
+            else isError = true;
         }
         else if (month == 7) {
-            if(day < 23) System.out.println("Yengeç");
-            else System.out.println("Aslan");
+            if(day >=1 && day <=31) horos = day < 23 ? "Yengeç" : "Aslan";
+            else isError = true;
         }
         else if (month == 8) {
-            if(day < 23) System.out.println("Aslan");
-            else System.out.println("Başak");
+            if(day >=1 && day <=31) horos = day < 23 ? "Aslan" : "Başak";
+            else isError = true;
         }
         else if (month == 9) {
-            if(day < 23) System.out.println("Başak");
-            else System.out.println("Terazi");
+            if(day >=1 && day <=30) horos = day < 23 ? "Başak" : "Terazi";
+            else isError = true;
         }
         else if (month == 10) {
-            if(day < 23) System.out.println("Terazi");
-            else System.out.println("Akrep");
+            if(day >=1 && day <=31) horos = day < 23 ? "Terazi" : "Akrep";
+            else isError = true;
         }
         else if (month == 11) {
-            if(day < 22) System.out.println("Akrep");
-            else System.out.println("Yay");
+            if(day >=1 && day <=30) horos = day < 22 ? "Akrep" : "Yay";
+            else isError = true;
         }
         else if (month == 12) {
-            if(day < 22) System.out.println("Yay");
-            else System.out.println("Oğlak");
+            if(day >=1 && day <=31) horos = day < 22 ? "Yay" : "Oğlak";
+            else isError = true;
         }
-        else System.out.println("Lütfen geçerli bir ay giriniz.");
+        else isError = true;
+
+        //değerlerin ekrana yazdırılması/printing values
+        System.out.println("Doğum tarihiniz : " + day + "." + month);
+        if(isError) System.out.println("Lütfen geçerli bir tarih giriniz. ");
+        else System.out.print("Burcunuz : " + horos);
+
         }
     }
