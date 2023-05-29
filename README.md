@@ -28,3 +28,4 @@
 * [Bazı Özel Sayıları Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-cift-sayi-toplam) --> [FindSpecNumbs.java](/src/FindSpecNumbs.java)
 * [Bazı Özel Sayıları Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-tek-sayi-toplam) --> [CalcSpecNumbs.java](/src/CalcSpecNumbs.java)
 * [Yirminin Kuvvetlerini Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-two-power) --> [FindPowOf20.java](/src/FindPowOf20.java)
+* [Kombinasyon Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-faktoriyel) --> [Combination.java](/src/Combination.java)
