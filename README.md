@@ -21,3 +21,4 @@
 * [Sınıfı Geçme Durumu Programı](https://academy.patika.dev/tr/courses/java101/pratik-sinif-gecme) --> [ClassPassStat.java](/src/ClassPassStat.java)
 * [Hava Sıcaklığına Göre Etkinlik Öneren Program](https://academy.patika.dev/tr/courses/java101/pratik-etkinlik-onerme) --> [SuggestEvents.java](/src/SuggestEvents.java)
 * [Sayıları Sıralama Programı](https://academy.patika.dev/tr/courses/java101/pratik-sayi-siralama) --> [NumberSorting.java](/src/NumberSorting.java)
+* [Burç Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-burclar) --> [HorosFinder.java](/src/HorosFinder.java)
