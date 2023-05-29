@@ -25,3 +25,4 @@
 * [Uçak Bilet Fiyatı Hesaplama](https://academy.patika.dev/tr/courses/java101/odev-ucak-bileti) --> [FlightTicketPriceCalc.java](/src/FlightTicketPriceCalc.java)
 * [Çin Zodyağı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/odev-cin-zodyagi) --> [ChineseZodiacCalc.java](/src/ChineseZodiacCalc.java)
 * [Artık Yıl Hesaplayan Program](https://academy.patika.dev/courses/java101/odev-artik-yil) --> [LeapYearCalc.java](/src/LeapYearCalc.java)
+* [Bazı Özel Sayıları Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-cift-sayi-toplam) --> [FindSpecNumbs.java](/src/FindSpecNumbs.java)
