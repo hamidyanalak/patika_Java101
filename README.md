@@ -23,3 +23,4 @@
 * [Sayıları Sıralama Programı](https://academy.patika.dev/tr/courses/java101/pratik-sayi-siralama) --> [NumberSorting.java](/src/NumberSorting.java)
 * [Burç Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-burclar) --> [HorosFinder.java](/src/HorosFinder.java)
 * [Uçak Bilet Fiyatı Hesaplama](https://academy.patika.dev/tr/courses/java101/odev-ucak-bileti) --> [FlightTicketPriceCalc.java](/src/FlightTicketPriceCalc.java)
+* [Çin Zodyağı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/odev-cin-zodyagi) --> [ChineseZodiacCalc.java](/src/ChineseZodiacCalc.java)
