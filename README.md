@@ -30,3 +30,4 @@
 * [Yirminin Kuvvetlerini Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-two-power) --> [FindPowOf20.java](/src/FindPowOf20.java)
 * [Kombinasyon Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-faktoriyel) --> [Combination.java](/src/Combination.java)
 * [Üslü Sayı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-uslu-sayi) -->[CalcExponents.java](/src/CalcExponents.java)
+* [Sayı Değerlerinin Toplamını Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-armstrong-1) --> [SumOfNumbValues.java](/src/SumOfNumbValues.java)
