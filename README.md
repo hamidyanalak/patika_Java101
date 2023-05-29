@@ -27,3 +27,4 @@
 * [Artık Yıl Hesaplayan Program](https://academy.patika.dev/courses/java101/odev-artik-yil) --> [LeapYearCalc.java](/src/LeapYearCalc.java)
 * [Bazı Özel Sayıları Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-cift-sayi-toplam) --> [FindSpecNumbs.java](/src/FindSpecNumbs.java)
 * [Bazı Özel Sayıları Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-tek-sayi-toplam) --> [CalcSpecNumbs.java](/src/CalcSpecNumbs.java)
+* [Yirminin Kuvvetlerini Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-two-power) --> [FindPowOf20.java](/src/FindPowOf20.java)
