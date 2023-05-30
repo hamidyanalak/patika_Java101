@@ -32,4 +32,5 @@
 * [Üslü Sayı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-uslu-sayi) -->[CalcExponents.java](/src/CalcExponents.java)
 * [Sayı Değerlerinin Toplamını Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-armstrong-1) --> [SumOfNumbValues.java](/src/SumOfNumbValues.java)
 * [Harmonik Seri Toplamını Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-harmonic) --> [HarmonicSeries.java](/src/HarmonicSeries.java)
+* [Yıldızlar ile Elmas Yapımı](https://academy.patika.dev/tr/courses/java101/pratik-yildiz-ucgen) --> [DiaWithStars.java](/src/DiaWithStars.java)
 
