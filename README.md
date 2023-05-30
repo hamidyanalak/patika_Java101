@@ -34,4 +34,5 @@
 * [Harmonik Seri Toplamını Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-harmonic) --> [HarmonicSeries.java](/src/HarmonicSeries.java)
 * [Yıldızlar ile Elmas Yapımı](https://academy.patika.dev/tr/courses/java101/pratik-yildiz-ucgen) --> [DiaWithStars.java](/src/DiaWithStars.java)
 * [ATM Projesi](https://academy.patika.dev/tr/courses/java101/pratik-atm) --> [ATMachine.java](/src/ATMachine.java)
+* [EBOB-EKOK Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-ebob-ekok) --> [EbobEkokNumbs.java](/src/EbobEkokNumbs.java)
 
