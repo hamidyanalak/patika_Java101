@@ -36,5 +36,6 @@
 * [ATM Projesi](https://academy.patika.dev/tr/courses/java101/pratik-atm) --> [ATMachine.java](/src/ATMachine.java)
 * [EBOB-EKOK Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-ebob-ekok) --> [EbobEkokNumbs.java](/src/EbobEkokNumbs.java)
 * [En Küçük ve En Büyük Sayıyı Bulan Program](https://academy.patika.dev/tr/courses/java101/odev-min-max) --> [MinMaxNumbs.java](/src/MinMaxNumbs.java)
+* [Mükemmel Sayı](https://academy.patika.dev/tr/courses/java101/odev-mukemmel-sayi) --> [PerfectNumber.java](/src/PerfectNumber.java)
 
 
