@@ -39,5 +39,6 @@
 * [Mükemmel Sayı](https://academy.patika.dev/tr/courses/java101/odev-mukemmel-sayi) --> [PerfectNumber.java](/src/PerfectNumber.java)
 * [Ters Üçgen Çizen Program](https://academy.patika.dev/tr/courses/java101/odev-ters-ucgen) --> [InvertedTriangle.java](/src/InvertedTriangle.java)
 * [Asal Sayı](https://academy.patika.dev/tr/courses/java101/odev-asal-sayi) --> [PrimeNumbers.java](/src/PrimeNumbers.java)
+* [Fibonacci Serisini Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/odev-fibo) --> [Fibonacci.java](/src/Fibonacci.java)
 
 
