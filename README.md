@@ -5,6 +5,8 @@
 
 ## Dizin / Index
 
+### Hafta 1
+
 * [Not Ortalaması Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-not-ortalamasi) -->
 [AvgOfGrades.java](/src/AvgOfGrades.java)
 
@@ -41,4 +43,6 @@
 * [Asal Sayı](https://academy.patika.dev/tr/courses/java101/odev-asal-sayi) --> [PrimeNumbers.java](/src/PrimeNumbers.java)
 * [Fibonacci Serisini Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/odev-fibo) --> [Fibonacci.java](/src/Fibonacci.java)
 
+### Hafta 2
 
+* [Palindrom Sayı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-palindrom) --> [Palindrom.java](/src/Palindrom.java)
