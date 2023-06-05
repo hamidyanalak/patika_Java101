@@ -47,3 +47,4 @@
 
 * [Palindrom Sayı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-palindrom) --> [Palindrom.java](/src/Palindrom.java)
 * [Gelişmiş Hesap Makinesi Programı](https://academy.patika.dev/tr/courses/java101/pratik-hesap-mak-2) --> [AdvCalc.java](/src/AdvCalc.java)
+* [Özyinelemeli Metot ile Üslü Sayı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/odev-recursive-power) --> [RecursiveExponents.java](/src/RecursiveExponents.java)
