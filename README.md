@@ -49,3 +49,4 @@
 * [Gelişmiş Hesap Makinesi Programı](https://academy.patika.dev/tr/courses/java101/pratik-hesap-mak-2) --> [AdvCalc.java](/src/AdvCalc.java)
 * [Özyinelemeli Metot ile Üslü Sayı Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/odev-recursive-power) --> [RecursiveExponents.java](/src/RecursiveExponents.java)
 * [Özyinelemeli Metot ile Asal Sayı Bulan Program](https://academy.patika.dev/tr/courses/java101/odev-recursive-prime) --> [RecursivePrimeNumbs.java](/src/RecursivePrimeNumbs.java)
+* [Özyinelemeli Metot ile Sayılarla Desen Oluşturan Program](https://academy.patika.dev/tr/courses/java101/odev-recursive-pattern) --> [RecursivePatternNumbs.java](/src/RecursivePatternNumbs.java)
