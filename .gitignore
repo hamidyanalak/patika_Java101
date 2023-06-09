@@ -27,3 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+StudentInfoSystem/.gitignore
+src/RecursiveFibo.java
+src/deneme.java

@@ -7,13 +7,9 @@
 
 ### Hafta 1
 
-* [Not Ortalaması Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-not-ortalamasi) -->
-[AvgOfGrades.java](/src/AvgOfGrades.java)
-
+* [Not Ortalaması Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-not-ortalamasi) --> [AvgOfGrades.java](/src/AvgOfGrades.java)
 * [Vergi Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-kdv-hesaplama) --> [CalcOfTax.java](/src/CalcOfTax.java)
-
 * [Üçgende Hipotenüs ve Alan Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-hipotenus-bulma) --> [FindHypoTriangle.java](/src/FindHypoTriangle.java)
-
 * [Taksimetre Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-taksimetre) --> [Taximeter.java](/src/Taximeter.java)
 * [Dairenin Alanını ve Çevresini Hesaplayan Program](https://academy.patika.dev/courses/java101/pratik-daire-alan-cevre) --> [CalcValOfCirc](/src/CalcValOfCirc.java)
 * [Vücut Kitle İndeksi Hesaplama](https://academy.patika.dev/courses/java101/odev-vucut-kitle-hesaplama) --> [BodyMassIndex.java](/src/BodyMassIndex.java)
