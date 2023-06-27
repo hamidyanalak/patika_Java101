@@ -47,3 +47,4 @@
 * [Özyinelemeli Metot ile Asal Sayı Bulan Program](https://academy.patika.dev/tr/courses/java101/odev-recursive-prime) --> [RecursivePrimeNumbs.java](/src/RecursivePrimeNumbs.java)
 * [Özyinelemeli Metot ile Sayılarla Desen Oluşturan Program](https://academy.patika.dev/tr/courses/java101/odev-recursive-pattern) --> [RecursivePatternNumbs.java](/src/RecursivePatternNumbs.java)
 * [Öğrenci Bilgi Sistemi](https://academy.patika.dev/tr/courses/java101/pratik-obs) --> [StudentInfoSystem](/StudentInfoSystem/src/)
+* [Boks Maçı Programı](https://academy.patika.dev/courses/java101/pratik-boks) --> [BoxingMatch](/BoxingMatch/src/)
