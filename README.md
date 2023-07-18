@@ -53,3 +53,4 @@
 * [En Yakın Sayıları Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-min-max) --> [NearestNumbers.java](/src/NearestNumbers.java)
 * [Yıldızlarla Harf (B) Çizen Program](https://academy.patika.dev/tr/courses/java101/pratik-array-letter) --> [DrawLetterB.java](/src/DrawLetterB.java)
 * [Tekrarlanan Çift Sayıları Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-duplicate) --> [RepeatingNumbers.java](/src/RepeatingNumbers.java)
+* [Sıralı Dizi Programı](https://academy.patika.dev/tr/courses/java101/odev-array-order) --> [ArrMinToMax.java](/src/ArrMinToMax.java)
