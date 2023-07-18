@@ -17,9 +17,5 @@ public class NearestNumbers {
         System.out.println("Girilen Sayı : " + inputNumber);
         System.out.println("Girilen sayıdan küçük en yakın sayı :" + newList[index-1]);
         System.out.println("Girilen sayıdan büyük en yakın sayı :" + newList[index+1]);
-
-
-
-
     }
 }
