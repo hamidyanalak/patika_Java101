@@ -51,3 +51,4 @@
 * [Maaş Hesaplayıcı](https://academy.patika.dev/tr/courses/java101/odev-employee) --> [FactoryEmployee](/FactoryEmployee/src/)
 * [Harmonik Ortalama Hesaplayan Program](https://academy.patika.dev/tr/courses/java101/pratik-array-ortalama) --> [HarmonicMean.java](/src/HarmonicMean.java)
 * [En Yakın Sayıları Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-min-max) --> [NearestNumbers.java](/src/NearestNumbers.java)
+* [Yıldızlarla Harf (B) Çizen Program](https://academy.patika.dev/tr/courses/java101/pratik-array-letter) --> [DrawLetterB.java](/src/DrawLetterB.java)
