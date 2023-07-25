@@ -55,3 +55,4 @@
 * [Tekrarlanan Çift Sayıları Bulan Program](https://academy.patika.dev/tr/courses/java101/pratik-duplicate) --> [RepeatingNumbers.java](/src/RepeatingNumbers.java)
 * [Sıralı Dizi Programı](https://academy.patika.dev/tr/courses/java101/odev-array-order) --> [ArrMinToMax.java](/src/ArrMinToMax.java)
 * [Dizi Elemanlarının Frekansı](https://academy.patika.dev/tr/courses/java101/odev-array-count) --> [CountRepeatTime.java](/src/CountRepeatTime.java)
+* [Matrislerde Transpoz İşlemi](https://academy.patika.dev/tr/courses/java101/odev-array-transpose) --> [ToftheMatrix.java](/src/ToftheMatrix.java)
