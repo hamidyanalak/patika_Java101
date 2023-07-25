@@ -1,13 +1,16 @@
 import java.util.Scanner;
 public class ToftheMatrix {
     public static void main(String[] args) {
+        //matris oluşturma kodu
         int[][] m= createMatrix();
+
         System.out.println("The matrix is: ");
-        display(m);
+
+        display(m); //matrisi ekrana yazdıran program
         System.out.println("The transpose is: ");
         display(transpose(m));
     }
-    public static void display(int[][] matrix) {
+    public static void display(int[][] matrix) { //ekrana yazdıran fonksiyon
         for(int[] row : matrix) {
             for (int column : row) {
                 System.out.print(column + "    ");
