@@ -56,3 +56,4 @@
 * [Sıralı Dizi Programı](https://academy.patika.dev/tr/courses/java101/odev-array-order) --> [ArrMinToMax.java](/src/ArrMinToMax.java)
 * [Dizi Elemanlarının Frekansı](https://academy.patika.dev/tr/courses/java101/odev-array-count) --> [CountRepeatTime.java](/src/CountRepeatTime.java)
 * [Matrislerde Transpoz İşlemi](https://academy.patika.dev/tr/courses/java101/odev-array-transpose) --> [ToftheMatrix.java](/src/ToftheMatrix.java)
+* [Sayı Tahmin Oyunu](https://academy.patika.dev/tr/courses/java101/pratik-sayi-tahmin) --> [NumberGuessGame.java](/src/NumberGuessGame.java)
