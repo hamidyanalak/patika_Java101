@@ -58,3 +58,4 @@
 * [Matrislerde Transpoz İşlemi](https://academy.patika.dev/tr/courses/java101/odev-array-transpose) --> [ToftheMatrix.java](/src/ToftheMatrix.java)
 * [Sayı Tahmin Oyunu](https://academy.patika.dev/tr/courses/java101/pratik-sayi-tahmin) --> [NumberGuessGame.java](/src/NumberGuessGame.java)
 * [Palindrom Kelime Programı](https://academy.patika.dev/tr/courses/java101/pratik-palindrom-string) --> [PalindromeWords.java](/src/PalindromeWords.java)
+* [Mayın Tarlası Oyunu](https://academy.patika.dev/tr/courses/java101/bitirme-mayin-tarlasi) --> [Minefield](/Minefield/src/)
